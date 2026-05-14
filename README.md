@@ -10,6 +10,13 @@ The main goal of this project is to identify meaningful customer segments and pr
 
 ---
 
+## 🔗 Project Links
+
+- **Live Streamlit App:** [View Deployed App](https://customer-segmentation-kmeans-clustering-hgpcyrnpxj7mw8jmm7ybu6.streamlit.app/)
+- **Dataset Source:** [Online Retail II UCI Dataset on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)
+
+---
+
 ## 🎯 Objective
 
 The objective of this project is to:
@@ -19,7 +26,18 @@ The objective of this project is to:
 - Apply preprocessing techniques
 - Use K-Means Clustering for customer segmentation
 - Identify meaningful customer groups
+- Build an interactive Streamlit web app
 - Provide business insights and recommendations
+
+---
+
+## 📊 Dataset
+
+The dataset used in this project is the **Online Retail II UCI Dataset** from Kaggle.
+
+This dataset contains online retail transaction records. It includes customer purchases, invoice details, product information, quantity, price, customer ID, and country details.
+
+You can access the dataset here: [Online Retail II UCI Dataset on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)
 
 ---
 
@@ -59,7 +77,8 @@ K-Means Clustering is used to group similar customers together based on their be
 10. Customer Segment Creation
 11. Segment-wise Analysis
 12. Data Visualization
-13. Business Insights and Recommendations
+13. Streamlit App Development
+14. Business Insights and Recommendations
 
 ---
 
@@ -204,6 +223,16 @@ These visualizations helped in understanding the size, value, and behavior of ea
 
 ---
 
+## 🌐 Streamlit Web App
+
+An interactive Streamlit application was developed and deployed for this project.
+
+The app helps users explore the customer segmentation results and understand customer groups in a simple and visual way.
+
+You can view the deployed application here: [View Deployed App](https://customer-segmentation-kmeans-clustering-hgpcyrnpxj7mw8jmm7ybu6.streamlit.app/)
+
+---
+
 ## 🛠️ Tools and Libraries Used
 
 - Python
@@ -212,6 +241,7 @@ These visualizations helped in understanding the size, value, and behavior of ea
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Streamlit
 
 ---
 
@@ -244,3 +274,5 @@ The results can be used by businesses to:
 - Improve marketing strategies
 - Increase customer retention
 - Support data-driven business decisions
+
+The project also includes a deployed Streamlit application, making the results easy to explore and present.
