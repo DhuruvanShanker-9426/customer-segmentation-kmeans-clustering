@@ -9,8 +9,8 @@ st.set_page_config(
     layout="centered"
 )
 
-model = joblib.load("models/model.pkl")
-scaler = joblib.load("models/robust_scaler.pkl")
+model = joblib.load("customer_segmentation_k-means/models/model.pkl")
+scaler = joblib.load("customer_segmentation_k-means/models/robust_scaler.pkl")
 
 segment_map = {
     0: "Inactive / Low-Value Customers",
