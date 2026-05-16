@@ -273,6 +273,6 @@ The results can be used by businesses to:
 - Re-engage inactive customers
 - Improve marketing strategies
 - Increase customer retention
-- Support data-driven business decisions
+- Support data-driven business decisions.
 
 The project also includes a deployed Streamlit application, making the results easy to explore and present.
